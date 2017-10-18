@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/968e7ff78c37e070dc1d5ef7536cda35b51ee7a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_e4d679b7fde2521e07c01ecc1219e6a4192dd68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/96009abe642b1c6e5e8127f6049dafdd76e6e23f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_2b7c6f4772035271ffe154ec28b3519e1fab320c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_59d2e05fad7bab115fdb196f1df5185dc69d6333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/65efe9a0922a4bfc2292303b6926d7c24a458bd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_39e04776e141e4f9ea59e06864bd0ea1f7102277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_7aa2f8c1888d5c24930276ee99a068d825167d1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_5dac4b09befb4e70e036778be38049cac194424e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e424c6cbb017ee7cfc2ccb633454dd0403e9cd2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_c5f38fb146330c1812e21b75a79ce2ccecee4696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/a7d4849de984a28df04cbab27397c83e43a3528e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_9c49e70233a26fb91a2e8dcd7d64df73435a3f11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_1797172f4a3a93e8ea16879c68430d9b3c4c9582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/a2605b021f67a5e98ffa8997b51a2af4e2ec895b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_92dbec3fe4943a7653998461fadd9803d405861d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e2b17e734ca454f7ad193babe8f2ec8b058cd389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/8bc1046c827b1f8fae3afdce091086dffeec5799/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_20abc9bdc4a672a1e2d335c9835fc8a1ef0077b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/d911949124a8f1971207a42f514120e715336603/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_6c27bf09853a2adafb5a426cf0c830535b6ab71e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/26027f4dc72a11274e1206e0740a6d0de88ef1fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_d58e27f72787b2dbfac7becb02ce2f3765c4b471.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/1444a3450c40645fa8fad5f95f47d96886387fdf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_ac3fe1a3459aa2972f2c0cc6c84e30e3e5a0b7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/888c32c45d0df67af373af4b69c40e90f239af4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_ba523313cac5831bb29d6f334904a51b61288604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/gson-2.7_85037dbcf604f4d5c55d67c1d0bf9c952e4cba3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/savidsalazar/.android/build-cache/be280610602df8250dfeadb653e9ba379a2f4e24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/savidsalazar/Prueba/app/build/intermediates/pre-dexed/debug/classes_72c33af30a319db044bbcf3987855ee9836de0e4.jar" />
+    </item>
+
+</items>
