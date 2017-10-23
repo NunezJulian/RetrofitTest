@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     CiudadData cityPost;
     Estado estadoPost;
+    Junta junta;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,21 +45,48 @@ public class MainActivity extends AppCompatActivity {
         final Api service = retrofit.create(Api.class);
 
         estadoPost = new Estado();
-        estadoPost.setEstadoid(35);
-        estadoPost.setNombre("Durango");
-        estadoPost.setEstadoactivo(false);
+        estadoPost.setEstadoid(25);
+        estadoPost.setNombre("Sinaloa");
+        estadoPost.setEstadoactivo(true);
 
         cityPost = new CiudadData();
-        cityPost.setCiudadid(74);
-        cityPost.setNombre("Gomez Palacio");
+        cityPost.setNombre("Ahome");
         cityPost.setEstadoactivo(true);
         cityPost.setEstado(estadoPost);
 
-        Call<CiudadRespuesta> request = service.postCiudad(cityPost);
+        junta = new Junta();
+        junta.setNombre("Test Junta");
+        junta.setCiudad(cityPost);
+        junta.setJuntaid(24);
+        junta.setStatus(false);
+
+        Call<JuntaResponse> request = service.modifyCity(25, "Test Prueba");
+        request.enqueue(new Callback<JuntaResponse>() {
+            @Override
+            public void onResponse(Call<JuntaResponse> call, Response<
+                    JuntaResponse> response) {
+                Log.e("alto ahi", "Se modifico");
+            }
+
+            @Override
+            public void onFailure(Call<JuntaResponse> call, Throwable t) {
+                Log.e("alto ahi", t.toString());
+            }
+        });
+
+       /* Call<CiudadRespuesta> request = service.postCiudad(cityPost);
         request.enqueue(new Callback<CiudadRespuesta>() {
             @Override
             public void onResponse(Call<CiudadRespuesta> call, Response<CiudadRespuesta> response) {
                 Log.e("Alto ahi rufian", response.body().toString());
+                String var = response.body().getMeta().getStatus();
+                if (var.equals("OK")){
+                    Toast.makeText(MainActivity.this, "Si se guardó", Toast.LENGTH_SHORT).show();
+                } else{
+                    Toast.makeText(MainActivity.this, var, Toast.LENGTH_SHORT).show();
+                }
+
+
             }
 
             @Override
@@ -66,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.e("Alto ahi rufian", t.toString());
             }
         });
+        */
 
         //Call<CiudadRespuesta> request = service.getCiudad(18);
         /*Call<ConsultaCiudadesRespuesta> request = service.getTodas();
